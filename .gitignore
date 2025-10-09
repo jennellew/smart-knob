@@ -1,0 +1,5 @@
+.DS_STORE
+.gitattributes
+/libraries/ArduinoJson
+/libraries/lvgl
+/libraries/TFT_eSPI
