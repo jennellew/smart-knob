@@ -2,11 +2,14 @@
 
 ## Overview
 
-This is a smart home controller that controls Kasa Smart Bulbs and Smart Plugs without the use of an app or voice assistant.
+No more fumbling through apps and shouting at voice assistants, Knobby brings the joy of physical control back to smart home automation. It's what you wish your Nest thermostat could do if it weren't fixed to the wall.
 
-Smart Bulbs' brightness can be controlled by the built-in dial or UI, while Smart Plugs can be toggled off with a simple tap.
+The built-in dial or UI can control Smart Bulbs' brightness, while Smart Plugs can be toggled off with a simple tap.
 
 This project uses [Waveshare's Knob Display Dev Board](https://www.waveshare.com/esp32-s3-knob-touch-lcd-1.8.htm) and is built for the onboard ESP32-S3.
+
+![knobby-brightness](https://github.com/user-attachments/assets/8eedcc07-acd3-464c-ae55-f322ecbbb3e4)
+
 
 ## Features
 
